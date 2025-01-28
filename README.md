@@ -11,6 +11,11 @@
 7. [Contribution](#contribution)
 8. [Conclusion](#conclusion)
 
+
+## Tools & Library Used
+
+![Screenshot 2025-01-10 003108](https://github.com/user-attachments/assets/64d4f265-eb07-43a5-8dc4-17e0ff6596e9)
+
 ---
 ##  Project Overview
 
